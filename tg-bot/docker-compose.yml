@@ -1,0 +1,15 @@
+version: "3.8"
+name: "mathusha"
+
+services:
+  bot:
+    container_name: "telegram-bot"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "8082:8082"
+      - "50051:50051"
