@@ -1,0 +1,101 @@
+{
+  "profile": {
+    "page_name": "Profile",
+    "achievements": {
+      "page_name": "Achievements",
+      "description": "Everything you achieved"
+    },
+    "progress": {
+      "page_name": "Progress",
+      "description": "Track your progress"
+    },
+    "settings": {
+      "page_name": "Settings",
+      "description": "Appearance and features"
+    },
+    "support": {
+      "page_name": "Support",
+      "description": "Contact us"
+    },
+    "list_of_themes": "Reference",
+    "rating": "Rating:",
+    "top": "Top place:",
+
+    "logout": "Logout",
+    "langdialog": {
+      "title": "Choose language",
+      "ru": "Russian",
+      "en": "English"
+    }
+  },
+  "themes": {
+    "page_name": "Themes",
+    "difficulty": {
+      "0": "Easy",
+      "1": "Medium",
+      "2": "Hard",
+      "choose": "Choose difficulty"
+    }
+  },
+  "math": {
+    "page_name": "Math",
+    "skip": "Skip",
+    "next": "Next",
+    "solve": "Solve this expression:",
+    "right": "You solved this right",
+    "right_title": "Excellent!",
+    "error": "Right solution: {{right}}",
+    "error_title": "Incorrect solution",
+    "skip_title": "Skipped",
+
+    "placeholder": "Answer format:"
+  },
+  "rating": {
+    "page_name": "Rating"
+  },
+  "achievements": {
+    "page_name": "Achievements"
+  },
+  "progress": {
+    "page_name": "Progress",
+    "done": {
+      "easy": "Easy: {{done}}",
+      "medium": "Medium: {{done}}",
+      "hard": "Hard: {{done}}"
+    }
+  },
+  "reference": {
+    "page_name": "Reference"
+  },
+  "settings": {
+    "page_name": "Settings",
+    "general": "General",
+    "language": "Language",
+    "selected_language": "English",
+    "theme": "Theme",
+    "system": "System theme",
+    "light": "Light theme",
+    "dark": "Dark theme",
+    "logout": "Logout"
+  },
+  "general": {
+    "cancel": "Cancel",
+    "ok": "OK",
+    "loading": "Loading",
+    "info":"Info"
+    
+  },
+  "login":{
+    "page_name":"Login",
+    "error":"If authorization screen havent apeeared, press here"
+  },
+  "pick_photo": {
+    "not_chosen": "File does not chosen or have unallowed format",
+    "upload": "Upload a file",
+    "select": "Select",
+    "file_name": "File was not chosen"
+  },
+  "mixed": {
+    "page_name": "Choose task themes"
+  }
+}
