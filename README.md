@@ -24,4 +24,4 @@ flutter build apk --release
 
 ---
 
-Также в репозитории прикреплён [видеоролик](https://github.com/mikhalexandr/penki-mathusha-project/blob/main/%D0%9F%D0%9E%D0%9A%D0%90%D0%97%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%AB%20%D0%9F%D0%A0%D0%98%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%98%D0%AF.mp4) с показом работы приложения и готовый [apk файл]()
+Также в репозитории прикреплён [видеоролик](https://github.com/mikhalexandr/penki-mathusha-project/blob/main/%D0%9F%D0%9E%D0%9A%D0%90%D0%97%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%AB%20%D0%9F%D0%A0%D0%98%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%98%D0%AF.mp4) с показом работы приложения и готовый [apk файл](https://github.com/mikhalexandr/penki-mathusha-project/blob/main/T-Math.apk)
